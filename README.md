@@ -13,4 +13,4 @@ I'am using here only React and Material UI.
 
 ## How To Install and Run
 
-Download files and in terminal write npm install and then npm start.
+Download files and in terminal write npm install and then npm start .  
